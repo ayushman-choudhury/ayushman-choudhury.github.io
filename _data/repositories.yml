@@ -1,12 +1,10 @@
-github_users:
-  - torvalds
-  - alshedivat
+#github_users:
+#  - torvalds
+#  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ayushman-choudhury/oceanFluxDynamics
+  - ayushman-choudhury/ecoli-model-crwa
+  - ayushman-choudhury/greenhouse-simulation
+  - ayushman-choudhury/sirens
+  - ayushman-choudhury/drp
